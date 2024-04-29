@@ -1,26 +1,26 @@
-.banner{
+.banner {
     background-image: url(/IMAGES/BANNER\ IMAGE.jfif);
-    background-size: cover;
+    background-size:cover;
     background-position: center;
-
 }
 
-.banner__container{
+.banner__container {
     width: 100%;
-    min-height:100vh;
-    display:flex;
+    min-height: 100vh;
+    display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
     flex-wrap: wrap;
-    .banner__content{
+
+    .banner__content {
         color: aliceblue;
         width: 60%;
         text-align: center;
     }
 }
 
-.navegation{
+.navegation {
     background-color: rgba(0, 0, 0, 0.233);
     background: linear-gradient(rgba(0, 0, 0, 0.541), rgba(0, 0, 0, 0.384), rgba(0, 0, 0, 0.01));
     width: 100%;
